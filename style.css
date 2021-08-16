@@ -1,0 +1,71 @@
+body{
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    background: #d2dae2;
+    text-align: center;
+}
+.Subscribe_1{
+    background: white;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 400px;
+    padding: 10px;
+}
+a{
+   margin-left: 40px;
+   text-decoration: none;
+   background: rgb(218, 0, 0);
+   height: 20px;
+   padding: 10px 10px;
+   color: white;
+   display: flex;
+   flex-direction: row;
+   margin-top: 5px;
+}
+img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+.note{
+    margin-left: -8px;
+}
+.main_container{
+    display: flex;
+    flex-direction: row;
+}
+.section_2{
+    margin-left: 20px;
+}
+.Quiz_c{
+    font-weight: bold;
+}
+.Quiz_btn{
+    background: #6c5ce7;
+    width: 110px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.forms_button{
+    background: green;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.coin_container{
+    margin-top: 20px;
+}
+.number{
+    margin-left: 10px;
+}
